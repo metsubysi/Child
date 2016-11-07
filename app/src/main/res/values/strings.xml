@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">9 months weight</string>
+    <string name="Button_text"> Weigh before pregnancy</string>
+    <string name="hight"> Your height</string>
+    <string name="CheckIsCheck"> Check here if you are having twins</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ButtonGo">Go</string>
+    <string name="h">cm</string>
+    <string name="m">kg</string>
+    <string name="mn">Your weigh now</string>
+    <string name="Week">Weeks</string>
+    <string name="Showmess">Error: Incorrect data</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_grafik">Graphic</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2744392137373671/2949505948</string>
+</resources>

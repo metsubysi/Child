@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Вес за 9 месяцев</string>
+    <string name="Button_text"> Вес до беременности</string>
+    <string name="hight"> Ваш рост</string>
+    <string name="CheckIsCheck"> Выбирите, если двойня</string>
+    <string name="ButtonGo"> Посмотреть график</string>
+    <string name="Week"> Количество недель</string>
+    <string name="h">см</string>
+    <string name="m">кг</string>
+    <string name="mn">Ваш вес, сейчас</string>
+    <string name="Showmess">Введены не корректные значения</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_grafik">График</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2744392137373671/2949505948</string>
+</resources>

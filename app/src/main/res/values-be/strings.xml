@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Вага за 9 месяцаў</string>
+    <string name="Button_text"> Вага да цяжарнасці</string>
+    <string name="hight"> Ваш рост</string>
+    <string name="CheckIsCheck"> Выбіраючы, калі двайняты</string>
+    <string name="ButtonGo"> Паглядзець графік</string>
+    <string name="Week"> Количество недель</string>
+    <string name="h">см</string>
+    <string name="m">кг</string>
+    <string name="mn">Ваш вага, цяпер</string>
+    <string name="Showmess">Уведзеныя не карэктныя значэнні</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_grafik">Графік</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2744392137373671/2949505948</string>
+</resources>
